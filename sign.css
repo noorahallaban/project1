@@ -1,0 +1,45 @@
+
+
+body{
+background-image: url(../HTML\ Project/Images/Registertion.JPEG);
+background-repeat: no-repeat;
+background-size: cover;
+background-color:#f3e5f1;
+}
+h1.sign{
+color:#f3e5f1;
+margin-top: -10px;
+text-shadow: 2px 2px 4px rgb(68, 9, 231);
+font-family: cursive;
+
+}
+div.r1 {
+width: 30%;
+height: 62%;
+position: absolute;
+top: 55%;
+left: 25%;
+padding: 5% 1%;
+transform: translate(-50%,-50%);
+background-color: rgb(49, 62, 121);
+text-align: center;
+border-radius: 10%;
+box-shadow: 4px 4px 4px #f3e5f1;
+}
+input.r2{
+display: block;
+width: 100%;
+padding: 0px 5px;
+text-align: center;
+height: 40px;
+outline: none;
+box-sizing: border-box;
+border: none;
+font-family: cursive;
+background-color:#464197;    
+}
+div.r1 a{
+font-size: 18px;
+color: #f3e5f1;
+font-family: cursive;
+}
